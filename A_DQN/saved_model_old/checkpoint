@@ -1,0 +1,8 @@
+model_checkpoint_path: "checkpoint-6245263"
+all_model_checkpoint_paths: "checkpoint-1000006"
+all_model_checkpoint_paths: "checkpoint-2000070"
+all_model_checkpoint_paths: "checkpoint-3000140"
+all_model_checkpoint_paths: "checkpoint-4000230"
+all_model_checkpoint_paths: "checkpoint-5000314"
+all_model_checkpoint_paths: "checkpoint-6000388"
+all_model_checkpoint_paths: "checkpoint-6245263"
